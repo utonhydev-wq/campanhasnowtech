@@ -1,0 +1,6 @@
+{
+  "name": "NowTech Solar - Gestão de Campanhas 2026",
+  "description": "Sistema integrado de gestão, organização e acompanhamento das campanhas Pré-Black Friday, Black Friday Oficial e Natal 2026 da NowTech Solar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

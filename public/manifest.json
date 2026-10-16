@@ -1,0 +1,22 @@
+{
+  "short_name": "NowTech Solar",
+  "name": "NowTech Solar - Gestão de Campanhas 2026",
+  "description": "Sistema integrado de planejamento de conteúdo e gestão das campanhas Pré-Black Friday, Black Friday Oficial e Natal 2026.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "display": "standalone",
+  "orientation": "portrait"
+}
